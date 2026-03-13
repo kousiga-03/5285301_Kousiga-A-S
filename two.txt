@@ -1,4 +1,4 @@
 two
 2222
 This is for stash list
-This is for revert
+Understanding revert
